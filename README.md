@@ -1,11 +1,5 @@
 # ES-21AC-SP21
-Public repo for Ethnic Studies 21 
-
-
-# ES-21AC
-
-Spring 2021
-
+Public repo for Ethnic Studies Spring 21 
 
 Professor: Victoria E. Robinson
 
@@ -28,6 +22,7 @@ These materials were designed to be taught as walkthroughs or demos over the cou
 ## Lecture 2 - Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/ES-21AC-SP21/main?filepath=Lecture_2.ipynb)
 
+## Previous Versions of the Course
 
 [ES-21AC Spring 19 Repository](https://github.com/ds-modules/ES-21AC-SP19)
 
